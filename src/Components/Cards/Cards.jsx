@@ -1,4 +1,4 @@
-
+import { IoStarSharp } from "react-icons/io5";
 
 function Cards() {
 
@@ -17,6 +17,8 @@ function Cards() {
             <div>
               <div>amara saeed</div>
               <div>Bs IT</div>
+              <IoStarSharp />
+              <IoStarSharp />
             </div>
           </div>
 

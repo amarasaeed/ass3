@@ -5,6 +5,7 @@ import Cards from './Components/Cards/Cards';
 import Card from './Components/Props/Props';
 
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -15,6 +16,7 @@ root.render(
       <Card name='maria' class='teacher' />
       <Card name='amara' class='student' />
     </div>}
+  
 
 
   </React.StrictMode>
